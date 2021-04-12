@@ -4,7 +4,7 @@ Resumidamente iremos definir o Babel com uma biblioteca que serve basicamente pa
 
 ## Porque disso?
 
-O Java Script é uma linguagem que se atualiza muito e tem varias funcionalidades. Como o React por exemplo que a própria escrita de html fica dentro do código Java Script que os navegadores não entendem. Então o Babel tem a função de interpretar nosso código e converter de uma forma que todos os navegadores entendam.
+O JavaScript é uma linguagem que se atualiza muito e tem varias funcionalidades. Como o React por exemplo que a própria escrita de html fica dentro do código JavaScript que os navegadores não entendem. Então o Babel tem a função de interpretar nosso código e converter de uma forma que todos os navegadores entendam.
 
 Dentro do pro site do babel(babeljs.io), conseguimos visualizar isso melhor.
 
